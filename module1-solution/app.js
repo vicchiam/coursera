@@ -39,7 +39,5 @@
         $scope.message="Too much!";
       }
     }
-
   }
-
 })();
